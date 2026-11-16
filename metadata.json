@@ -1,0 +1,6 @@
+{
+  "name": "PolyTable",
+  "description": "Stateless multi-model, multi-agent orchestration workspace for concurrent Gemini, Cloudflare Workers AI, and OpenAI execution around a shared multimodal data pot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
